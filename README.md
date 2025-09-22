@@ -36,11 +36,10 @@ The system allows users to:
 ---
 
 ## 📂 Repository Structure
-- 📄 `Proposal.docx` → Senior project proposal document  
-- 📄 `FinalReport.docx` → Final project report  
+- 📄 `Proposal.pdf` → Senior project proposal document  
+- 📄 `FinalReport.pdf` → Final project report  
 - 📊 `Presentation.pptx` → User interface screenshots and explanations  
-- 🖼️ `Poster.pptx` → Poster prepared for project presentation  
-- 📑 `flights.txt` (example output) → Stores generated flight/track data in text format  
+- 🖼️ `Poster.pptx` → Poster prepared for project presentation   
 
 ---
 
